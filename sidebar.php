@@ -7,8 +7,12 @@
                         <a href="#" class="nav__logo">Bedimcode</a>
                     </div>
                     <div class="nav__list">
-                        <a href="#" class="nav__link active">
+                        <a href="index.php" class="nav__link active">
                             <ion-icon name="home-outline" class="nav__icon"></ion-icon>
+                            <span class="nav__name">Home</span>
+                        </a>
+                        <a href="dashboard.php" class="nav__link">
+                            <ion-icon name="desktop-outline" class="nav__icon"></ion-icon>
                             <span class="nav__name">Dashboard</span>
                         </a>
                         <a href="#" class="nav__link">
